@@ -1,0 +1,13 @@
+{
+  "icons": [
+    {
+      "name": "Technology",
+      "source": [
+        "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg",
+        "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg",
+        "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg",
+        "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+      ]
+    }
+  ]
+}
